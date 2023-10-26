@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "net6isocustomtest": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7013",
+      "launchBrowser": false
+    }
+  }
+}
